@@ -1,0 +1,25 @@
+{
+  "name": "great-bay",
+  "version": "1.0.0",
+  "description": "",
+  "main": "great-bay.js",
+  "dependencies": {
+    "inquirer": "^3.0.6",
+    "mysql": "^2.13.0",
+    "requirer": "^0.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martinsflavio/great-bay.git"
+  },
+  "author": "Flavio Martins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martinsflavio/great-bay/issues"
+  },
+  "homepage": "https://github.com/martinsflavio/great-bay#readme"
+}
